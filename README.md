@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of Texas at Dallas (Class of 20
 
 ## Skills and Tech
 - **Languages:** Java, Python, TypeScript, JavaScript, C++, C, SQL, Swift, HTML/CSS  
-- **Frameworks & Libraries:** React, Next.js, Node.js, Express, LangChain, Tailwind CSS, React Hook Form  
+- **Frameworks & Libraries:** React, Next.js, Node.js, Express, LangChain, Tailwind CSS
 - **Tools & Platforms:** Prisma, Supabase, Firebase, MongoDB, PostgreSQL, MySQL, Git, GitHub, Vercel, DBeaver
 - **ML & Data:** scikit-learn, NumPy, Pandas, Matplotlib, PyTorch
 
