@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Affiq 👋
 
-<!--
-**affiq23/affiq23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Texas at Dallas (Class of 2026) focused on building code.
 
-Here are some ideas to get you started:
+## Skills and Tech
+- **Languages:** Java, Python, TypeScript, JavaScript, C++, C, SQL, Swift, HTML/CSS  
+- **Frameworks & Libraries:** React, Next.js, Node.js, Express, LangChain, Tailwind CSS, React Hook Form  
+- **Tools & Platforms:** Prisma, Supabase, Firebase, MongoDB, PostgreSQL, MySQL, Git, GitHub, Vercel, DBeaver
+- **ML & Data:** scikit-learn, NumPy, Pandas, Matplotlib, PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Into
+I'm passionate about creating solutions to real-world problems.
+Feel free to explore my repositories or connect with me!
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/affiq-mohammed-920bb0201)  
+🌐 [Portfolio](https://affiq-portfolio.vercel.app/)  
+📬 affiqem@gmail.com
