@@ -41,8 +41,6 @@ I'm a Computer Science student at the University of Texas at Dallas (Class of 20
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 
-## What I'm Into
-I'm passionate about creating solutions to real-world problems.
 Feel free to explore my repositories or connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affiq-mohammed-920bb0201)
