@@ -41,5 +41,5 @@ I'm a Computer Science student at the University of Texas at Dallas (Class of 20
 Feel free to explore my repositories or connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affiq-mohammed-920bb0201)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://affiq-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://affiq-mohammed.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-affiqem@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:affiqem@gmail.com)
