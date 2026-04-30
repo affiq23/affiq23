@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Affiq</h1>
-<h3 align="center">I'm a Computer Science student at the University of Texas at Dallas focused on building code.</h3>
+<h1 align="center">Hi, I'm Affiq!</h1>
+<h3 align="center">I'm a CS student at the University of Texas at Dallas focused on building code.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
